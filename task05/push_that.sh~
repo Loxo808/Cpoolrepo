@@ -1,6 +1,0 @@
-#!bin/bash
-
-git add *
-git clean
-git commit -m 
-git push origin master
